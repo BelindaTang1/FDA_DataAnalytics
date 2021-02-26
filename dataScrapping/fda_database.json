@@ -1,0 +1,28 @@
+{
+    "fda-data-url" : "https://www.fda.gov/medical-devices/510k-clearances/downloadable-510k-files",
+    "establishment-zip-files-url"  : {
+        "Contact Addresses": "http://www.accessdata.fda.gov/premarket/ftparea/contact_addresses.zip",
+        "Listing Establishment" : "http://www.accessdata.fda.gov/premarket/ftparea/listing_estabtypes.zip",
+        "Listing PCD" : "http://www.accessdata.fda.gov/premarket/ftparea/Listing_PCD.zip",
+        "Listing Proprietary Name" : "http://www.accessdata.fda.gov/premarket/ftparea/Listing_Proprietary_Name.zip",
+        "Official Correspondent" : "http://www.accessdata.fda.gov/premarket/ftparea/Official_Correspondent.zip",
+        "Owner Operator" : "http://www.accessdata.fda.gov/premarket/ftparea/Owner_Operator.zip",
+        "Registration" : "http://www.accessdata.fda.gov/premarket/ftparea/Registration.zip",
+        "Registration Listting" : "http://www.accessdata.fda.gov/premarket/ftparea/registration_listing.zip",
+        "US Agent" :  "http://www.accessdata.fda.gov/premarket/ftparea/us_agent.zip",
+        "Establishment Types" : "http://www.accessdata.fda.gov/premarket/ftparea/estabtypes.zip",
+        "Non-Registered Importers Identified by Manufacturers": "http://www.accessdata.fda.gov/premarket/ftparea/Non_Reg_Imp_ID_by_Manu.zip",
+        "Manufacturers Identified by Importers" : "http://www.accessdata.fda.gov/premarket/ftparea/Manu_ID_by_Imp.zip" ,
+        "Registered Importers Identified by Manufacturers" : "http://www.accessdata.fda.gov/premarket/ftparea/Reg_Imp_ID_by_Manu.zip"
+        
+    },
+    "510k-zip-file-url" : {
+        "Most Current Release" : "http://www.accessdata.fda.gov/premarket/ftparea/pmnlstmn.zip",
+        "1996-current" : "http://www.accessdata.fda.gov/premarket/ftparea/pmn96cur.zip",
+        "1991-1995" :  "http://www.accessdata.fda.gov/premarket/ftparea/pmn9195.zip",
+        "1986-1990" : "http://www.accessdata.fda.gov/premarket/ftparea/pmn8690.zip",
+        "1981-1985" : "http://www.accessdata.fda.gov/premarket/ftparea/pmn8185.zip",
+        "1976-1980" : "http://www.accessdata.fda.gov/premarket/ftparea/pmn7680.zip"
+    }
+
+}
