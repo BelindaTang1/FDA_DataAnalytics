@@ -1,0 +1,11 @@
+1|Manufacture Medical Device for Another Party (Contract Manufacturer)|Contract Manufacturer
+2|Sterilize Medical Device for Another Party (Contract Sterilizer)|Contract Sterilizer
+3|Export Device to the United States But Perform No Other Operation on Device|Foreign Exporter
+5|Manufacture Medical Device|Manufacturer
+6|Remanufacture Medical Device|Remanufacturer
+7|Repack or Relabel Medical Device|Repackager/Relabeler
+8|Reprocess Single-Use Device|Reprocessor of Single Use Devices
+9|Develop Specifications But Do Not Manufacture At This Facility|Specification Developer
+10|Manufacture Device in the United States for Export Only|U.S. Manufacturer of Export Only Devices
+11|Complaint File Establishment per 21 CFR 820.198|Complaint File Establishment
+12|Foreign Private Label Distributor|Foreign Private Label Distributor
