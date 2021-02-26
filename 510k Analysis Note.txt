@@ -1,0 +1,13 @@
+1， How to find the summary file:
+       - filter DECESION == "SESE"
+       - filter STATEORSUMM == "Summary"
+       - look for the "k number"
+       - summary link: https://www.accessdata.fda.gov/cdrh_docs/pdf{yearreceived}/{K number}.pdf
+
+2, Average Decision days or other analysis concerning decision making time lengh need to do two groups: Third Party == "N" or "Y"
+
+3, Type difference affecting Decision making time length analysis: Dig in~
+
+4, Country Trend: add CN for 30 years of 45 years
+
+-- Joey Xie
