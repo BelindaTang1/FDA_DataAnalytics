@@ -23,6 +23,8 @@
         "1986-1990" : "http://www.accessdata.fda.gov/premarket/ftparea/pmn8690.zip",
         "1981-1985" : "http://www.accessdata.fda.gov/premarket/ftparea/pmn8185.zip",
         "1976-1980" : "http://www.accessdata.fda.gov/premarket/ftparea/pmn7680.zip"
-    }
+    },
+
+    "product-code-classfication" : "http://www.accessdata.fda.gov/premarket/ftparea/foiclass.zip"
 
 }
