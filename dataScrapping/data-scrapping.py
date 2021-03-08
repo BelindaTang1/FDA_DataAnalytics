@@ -54,4 +54,5 @@ class data_scrapper_product_code(object):
 if __name__ == "__main__":
     data_scrapper_pc_code = data_scrapper_product_code()
     data_scrapper_pc_code.scrap()
+    print('download done!')
 
