@@ -11,3 +11,11 @@
 4, Country Trend: add CN for 30 years of 45 years
 
 -- Joey Xie
+
+1. Add universal variables so we only have to change them at the the top of the page to see change throughout the cells
+
+2. Turn all of the individual features into functions
+
+3. Add datetime object capability for "start" and "end" date inputs
+
+-- Belinda Tang
