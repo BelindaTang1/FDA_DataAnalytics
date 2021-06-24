@@ -1,6 +1,3 @@
 # FDA_dataAnalysis
-FDA 510K historical and recent data analysis
+A comprehensive data analytics scheme written in python, visualized using Pandas, Numpy, and MatPlotLib, and executed in JupyterNotebook kernels. The code is tailored to run graphical and numerical computations of FDA's open source pre-market compliance database. 
 
-PureFDA Access to FDA Proprietary Database Google Drive Link:
-
-  https://drive.google.com/file/d/111-3Z-bN9HEiwKHCJUO7ZYrOF4o1CUxW/view?usp=sharing
