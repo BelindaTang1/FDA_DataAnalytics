@@ -1,6 +1,6 @@
-from datetime import datetime     
+from datetime import date , datetime, time
 import pandas as pd
-
+import pytz
 
 date_format = "%Y/%m/%d"
 
@@ -21,3 +21,10 @@ class sayHello(object):
 if __name__ == "__main__":
     object1 = sayHello("joey")
     object1.speak()
+    today = date.today()
+    print(today)
+    now = time.max
+    print(datetime.now())
+    EST = pytz.timezone('America/New_York')
+    ny_time = datetime.now(EST)
+    print(ny_time)
